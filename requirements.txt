@@ -1,0 +1,10 @@
+# BGuru Streamlit Application Dependencies
+
+# Core framework
+streamlit==1.31.0
+
+# Anthropic Claude API
+anthropic==0.18.1
+
+# Optional but recommended
+python-dotenv==1.0.0  # For local development with .env file
